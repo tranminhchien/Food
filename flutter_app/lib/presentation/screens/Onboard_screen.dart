@@ -17,7 +17,7 @@ class OnboardScreen extends StatelessWidget {
                   ),
               ],
         ),
-      ),
+      ), 
     );
   }
 }
